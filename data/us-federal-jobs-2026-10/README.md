@@ -10,7 +10,7 @@
 - `jobs_sample_300.csv`: a random 300 rows with full text
 - `jobs_full.parquet`: all rows with full text, 45 MB. Download it from this repo's [Releases](https://github.com/Malodar/job-market-data/releases)
 
-**On Kaggle:** [the full dataset](https://www.kaggle.com/datasets/artsiomkunitsyn/us-federal-job-announcements-october-2026) and [a notebook on pay by department](https://www.kaggle.com/code/artsiomkunitsyn/which-us-federal-departments-advertise-the-highest).
+**On Kaggle:** [the full dataset](https://www.kaggle.com/datasets/artsiomkunitsyn/us-federal-job-announcements-october-2026) and [a notebook on pay by department](https://www.kaggle.com/code/artsiomkunitsyn/which-us-federal-departments-advertise-top-pay).
 
 ## Preview
 

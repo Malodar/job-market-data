@@ -8,7 +8,7 @@ Free sample datasets of job postings, as CSV and Parquet, each with its columns 
 
 ![Departments chart](data/us-federal-jobs-2026-10/departments.png)
 
-**On Kaggle:** [the full dataset](https://www.kaggle.com/datasets/artsiomkunitsyn/us-federal-job-announcements-october-2026) and [a notebook on pay by department](https://www.kaggle.com/code/artsiomkunitsyn/which-us-federal-departments-advertise-the-highest).
+**On Kaggle:** [the full dataset](https://www.kaggle.com/datasets/artsiomkunitsyn/us-federal-job-announcements-october-2026) and [a notebook on pay by department](https://www.kaggle.com/code/artsiomkunitsyn/which-us-federal-departments-advertise-top-pay).
 
 ## Load it
 
