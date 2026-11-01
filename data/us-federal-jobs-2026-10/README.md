@@ -12,6 +12,8 @@
 
 **On Kaggle:** [the full dataset](https://www.kaggle.com/datasets/artsiomkunitsyn/us-federal-job-announcements-october-2026) and [a notebook on pay by department](https://www.kaggle.com/code/artsiomkunitsyn/which-us-federal-departments-advertise-top-pay).
 
+**On Hugging Face:** [the same dataset, with a table preview](https://huggingface.co/datasets/artsiomkunitsyn/us-federal-job-announcements).
+
 ## Preview
 
 | title | department | location | minimum_range_usd | maximum_range_usd | salary_period | telework_eligible |
